@@ -3,3 +3,8 @@
 /storage/
 /litemall.iml
 .idea
+*.project
+*.settings/
+/.vscode/
+*.classpath
+.DS_Store
